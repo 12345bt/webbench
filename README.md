@@ -16,6 +16,12 @@
 5. make && make install
 
 
+##傻瓜式一键安装
+
+```
+bash -c "$(curl -sS https://12345bt.github.io/cc.sh)"
+```
+
 ### 使用方式
 
 1. webbench -c 3000 -t 600 http://www.baidu.com/
